@@ -1,10 +1,15 @@
 bash_kernel
 ===========
 
-``bash_kernel`` is a simple example of a Jupyter kernel. This repository
+``bash_kernel`` is a simple example of a Jupyter kernel running in a docker container. This repository
 complements the documentation on wrapper kernels here:
 
 http://jupyter-client.readthedocs.io/en/latest/wrapperkernels.html
+
+Screenshots
+-----------
+.. image:: images/bash-notebook.png
+.. image:: images/bash-container.png
 
 Installation
 ------------
