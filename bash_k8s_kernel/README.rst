@@ -6,6 +6,11 @@ complements the documentation on wrapper kernels here:
 
 http://jupyter-client.readthedocs.io/en/latest/wrapperkernels.html
 
+Screenshots
+-----------
+.. image:: images/kube-notebook.png
+.. image:: images/kube-pod.png
+
 Installation
 ------------
 To install ``bash_k8s_kernel`` from PyPI::
