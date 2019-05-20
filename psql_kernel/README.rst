@@ -6,6 +6,11 @@ complements the documentation on wrapper kernels here:
 
 http://jupyter-client.readthedocs.io/en/latest/wrapperkernels.html
 
+Screenshots
+-----------
+.. image:: images/psql-notebook.png
+.. image:: images/postgres-containers.png
+
 Installation
 ------------
 To install ``psql_kernel`` from PyPI::
